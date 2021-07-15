@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(233, 60, 95);
+}
+
+#parrafo1{
+    color:rgb(43, 43, 66);
+    font-family: italic;
+    
+}
+
+#parrafo1::after{
+    content:"Esta oración debe ir despues";
+}
+#parrafo1::before{
+    content:"Esta oración debe ir antes ";
+}
+#instagram{
+    color: rgb(85, 7, 23);
+    text-align: left;
+    font-size: 22px;;
+}
+#facebook{
+    color: rgb(85, 7, 23);
+    text-align: left;
+    font-size: 22px; 
+}
+ol{
+    list-style:none
+    
+}
+h3{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
