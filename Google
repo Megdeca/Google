@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="stylegoogle.css">
+</head>
+<body>
+    <div  class="caja1">
+        <nav>
+            <a href="#">Gmail</a>
+            <a href="#">Imagenes</a>
+            <img src="-apps_90405.png">
+            <img src="derechos-de-autor.png">
+        </nav>  
+    </div>
+    <div class="caja2">
+        <img class="Imagen" src="Google.png" alt="Google">
+    </div>
+    <section class="caja">
+        <nav><input type="search"></nav>
+        <button type="submit">Buscar</button>
+    </section>
+    <div class="caja3">
+        <button>Busqueda de Google</button>
+        <button>I´m Feeling Lucky</button>
+    </div>
+    <div class="caja4">
+        <article>Ofrecido por Google en <a href="#1">Quechua</a></article>
+    </div>
+    <footer>
+        <p>Perú</p>
+        <br>
+        <br>
+        <a href="#">Sobre Google</a>
+        <a href="#">Publicidad</a>
+        <a href="#">Negocios</a>
+        <a href="#">Como funciona la Búsqueda</a>
+    </footer>
+</body>
+</html>
